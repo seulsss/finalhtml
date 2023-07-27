@@ -1,0 +1,254 @@
+@font-face {
+  font-family: 'S-CoreDream-3Light';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.container {
+  margin: auto;
+  background: #ffffff;
+  width: 1440px;
+  height: 1998px;
+  position: relative;
+  }
+
+.monthly_animal {
+  background: #508068;
+  width: 483px;
+  height: 800px;
+  position: relative;
+  top : 100px;
+  }
+  
+.animal_info {
+    background: #ffffff;
+    width: 404px;
+    height: 558px;
+    position: relative;
+    left: 38px;
+    top: 50px;
+  }
+
+.info_title1 {
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+  }
+
+.info_title2 {
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+  }
+
+.info_img {
+    width: 350px;
+    height: 350px;
+    align-content: center;
+    align-items: center;
+  }
+
+.hint_title1 {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: left;
+    position: absolute;
+    left: 40px;
+    top: 630px;
+    width: 421px;
+    height: 134px;
+  }
+
+.hint_title2 {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  position: absolute;
+  left: 40px;
+  top: 700px;
+  width: 421px;
+  height: 134px;
+  }
+
+.btn_chall {
+  background: #8ab6a9;
+  border-radius: 999px;
+  gap: 10px;
+  position: absolute;
+  left: 50px;
+  top: 1100px;
+  width: 170px;
+  height: 70px;
+  text-align: center;
+  color : white;
+  font-size: 19px;
+  font-weight: 800;
+  }
+
+.btn_pay {
+  background: #8ab6a9;
+  border-radius: 999px;
+  position: absolute;
+  left: 260px;
+  top: 1100px;
+  width: 170px;
+  height: 70px;
+  text-align: center;
+  color : white;
+  font-size: 19px;
+  font-weight: 800;
+  }
+
+.animal_list {
+  background: #ffffff;
+  width: 830px;
+  height: 893px;
+  position: absolute;
+  left: 582px;
+  top: 280px;
+  }
+
+.txt1 {
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  left: 350px;
+  top: -10px;
+  }
+  
+.txt2 {
+  color: #508068;
+  font-size: 45px;
+  position: absolute;
+  left: 500px;
+  top: -35px;
+  }
+  
+.img {
+    background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 31px;
+    top: 33px;
+  }
+
+.text {
+    color: #000000;
+    font-size: 20px;
+    position: absolute;
+  
+    top: 190px;
+    width: 250px;
+    text-align: center;
+  }
+
+.animal1 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 14px;
+  top: 59px;
+  }
+
+.animal2 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 297px;
+  top: 59px;
+}
+
+.animal3 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 580px;
+  top: 59px;
+}
+
+.animal4 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 14px;
+  top: 300px;
+}
+
+.animal5 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 297px;
+  top: 300px;
+}
+
+.animal6 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 580px;
+  top: 300px;
+}
+
+.animal7 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 14px;
+  top: 545px;
+}
+
+.animal8 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 297px;
+  top: 545px;
+}
+
+.animal9 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 580px;
+  top: 545px;
+}
+
+.animal10 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 14px;
+  top: 785px;
+}
+
+.animal11 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 299px;
+  top: 785px;
+}
+
+.animal12 {
+  background: #ffffff;
+  width: 212px;
+  height: 216px;
+  position: absolute;
+  left: 578px;
+  top: 785px;
+}
